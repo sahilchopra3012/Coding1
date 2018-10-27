@@ -1,4 +1,1 @@
-# Coding1
-gandu pila (sahil) tatti
-gaandu baba(asharam)
-gaandu singhla
+This is for coding only
